@@ -53,37 +53,40 @@ interests:
   - Particle physics
 
 education:
-  - area: PhD Cosmology
+  - area: PhD in Cosmology
     institution: Université Grenoble Alpes
     date_start: 2024-10-01
     date_end: 2027-10-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Research on the study of Milky Way sub-halos and their impacts on stellar streams.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master's in Cosmology and Particle Physics
+    institution: Université Grenoble Alpes
+    date_start: 2023-09-01
+    date_end: 2024-07-01
     summary: |
-      GPA: 3.8/4.0
+      Master's program focusing on both theoretical and experimental aspects of cosmology and particle physics.
+  - area: Magister's in Fundamental Physics
+    institution: Université Grenoble Alpes
+    date_start: 2022-09-01
+    date_end: 2024-07-01
+    summary: |
+      Specialized courses in advanced mathematics applied to physics.
+  - area: Master's in Fundamental Physics (Year 1)
+    institution: Université Grenoble Alpes
+    date_start: 2022-09-01
+    date_end: 2023-07-01
+    summary: |
+      First year of a Master's program with a focus on core principles of fundamental physics.
+  - area: BSc in Physics (Selective Program)
+    institution: Université Paul Sabatier
+    date_start: 2019-09-01
+    date_end: 2022-07-01
+    summary: |
+      Selective Bachelor's degree in Physics, with an emphasis on preparation for a research career.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
