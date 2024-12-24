@@ -94,7 +94,7 @@ work:
     date_end: 2024-09-13
     company_name: LPSC (Laboratoire Physique Subatomique et Cosmologie)
     company_url: 'https://lpsc.in2p3.fr/index.php/en/'
-    company_logo: LPSC_logo
+    company_logo: "custom/LPSC_logo"
     location: France - Grenoble
     summary: |2-
       * Subject: Study of milky-way sub-halos through their impacts on stellar streams.
@@ -104,7 +104,7 @@ work:
     date_end: 2023-07-13
     company_name: LPSC (Laboratoire Physique Subatomique et Cosmologie)
     company_url: 'https://lpsc.in2p3.fr/index.php/en/'
-    company_logo: LPSC_logo
+    company_logo: "custom/LPSC_logo"
     location: France - Grenoble
     summary: |2-
       * Subject: Solving a differential equation for calibration of the ATLAS detector via a neural networks.
@@ -115,7 +115,7 @@ work:
   - position: Internship in research laboratory
     company_name: University of Turku
     company_url: 'https://www.utu.fi/en'
-    company_logo: turku_logo
+    company_logo: "custom/turku_logo"
     location: Finland - Turku
     date_start: 2022-02-01
     date_end: 2022-06-18
@@ -128,30 +128,6 @@ work:
 
         * More details <a href="https://matthieu-pelissier.fr/project/accretiondisk/">here</a>
     
-
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
@@ -193,11 +169,11 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Excellence grant IN2P3 (CNRS)
+    url: https://www.in2p3.cnrs.fr/fr/cnrsinfo/lin2p3-recompense-cinq-etudiants-et-etudiantes-dune-bourse-dexcellence-des-deux-infinis
+    date: '2024-01-29'
+    awarder: IN2P3
+    icon: "custom/in2p3"
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---

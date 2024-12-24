@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "--",
+      "?xml",
       "a",
       "article",
       "aside",
@@ -50,6 +51,7 @@
       "strong",
       "style",
       "summary",
+      "sup",
       "svg",
       "table",
       "tbody",
@@ -530,7 +532,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-159486372",
+      "chart-126948735",
       "charts",
       "code",
       "crowd-funded-open-source-software",
