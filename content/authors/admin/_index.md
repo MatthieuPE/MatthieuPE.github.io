@@ -62,19 +62,19 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Master's in Cosmology and Particle Physics
+  - area: Master in Cosmology and Particle Physics
     institution: Université Grenoble Alpes
     date_start: 2023-09-01
     date_end: 2024-07-01
     summary: |
-      Master's program focusing on both theoretical and experimental aspects of cosmology and particle physics.
-  - area: Magister's in Fundamental Physics
+      Master program focusing on both theoretical and experimental aspects of cosmology and particle physics.
+  - area: Magister in Fundamental Physics
     institution: Université Grenoble Alpes
     date_start: 2022-09-01
     date_end: 2024-07-01
     summary: |
       Specialized courses in advanced mathematics applied to physics.
-  - area: Master's in Fundamental Physics (Year 1)
+  - area: Master's in Fundamental Physics
     institution: Université Grenoble Alpes
     date_start: 2022-09-01
     date_end: 2023-07-01
@@ -86,6 +86,48 @@ education:
     date_end: 2022-07-01
     summary: |
       Selective Bachelor's degree in Physics, with an emphasis on preparation for a research career.
+
+
+work:
+  - position: Internship in research laboratory
+    date_start: 2024-03-22
+    date_end: 2024-09-13
+    company_name: LPSC (Laboratoire Physique Subatomique et Cosmologie)
+    company_url: 'https://lpsc.in2p3.fr/index.php/en/'
+    company_logo: LPSC_logo
+    location: France - Grenoble
+    summary: |2-
+      * Subject: Study of milky-way sub-halos through their impacts on stellar streams.
+      * Supervisor: Dr. Marine Kuna.  
+  - position: Internship in research laboratory
+    date_start: 2023-05-22
+    date_end: 2023-07-13
+    company_name: LPSC (Laboratoire Physique Subatomique et Cosmologie)
+    company_url: 'https://lpsc.in2p3.fr/index.php/en/'
+    company_logo: LPSC_logo
+    location: France - Grenoble
+    summary: |2-
+      * Subject: Solving a differential equation for calibration of the ATLAS detector via a neural networks.
+      * Supervisor: Dr. Pierre-Antoine Delsart.  
+      * Responsibilities include: introduction to neural networks and ATLAS detector, modelling (python)
+      * More details <a href="https://matthieu-pelissier.fr/project/atlas/">here</a>
+
+  - position: Internship in research laboratory
+    company_name: University of Turku
+    company_url: 'https://www.utu.fi/en'
+    company_logo: turku_logo
+    location: Finland - Turku
+    date_start: 2022-02-01
+    date_end: 2022-06-18
+    summary: |2-
+        * Subject: polarimetric signatures of accreting black holes.
+
+        * Supervisor: Dr. Alexandra Veledina.  
+        
+        * Responsibilities include: bibliography research, theoretical study, modelling (python).
+
+        * More details <a href="https://matthieu-pelissier.fr/project/accretiondisk/">here</a>
+    
 
 # work:
 #   - position: Director of Cloud Infrastructure

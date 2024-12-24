@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internships | Matthieu Pelissier</title>
+    <link>http://localhost:1313/tags/internships/</link>
+      <atom:link href="http://localhost:1313/tags/internships/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internships</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Internships</title>
+      <link>http://localhost:1313/tags/internships/</link>
+    </image>
+    
+    <item>
+      <title>Solving a differential equation for calibration of the ATLAS detector via a neural networks.</title>
+      <link>http://localhost:1313/project/atlas/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/atlas/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/atlas/distribution.jpg&#34;
+    alt=&#34;Calibration Example: using neural network solution for ODE-based calibration function&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Calibration Example: using neural network solution for ODE-based calibration function&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Pierre-Antoine Delsart, lecturer, ATLAS, LPSC, France.&lt;/p&gt;
+&lt;p&gt;The particle physics studied at the LHC by the ATLAS detector requires high-precision measurements.
+precision. The energy quantities associated with hadronic jet objects cannot be used directly from experimental measurements, and must be corrected in order to be compared with theoretical predictions.
+from experimental measurements, and must be corrected before they can be compared with theoretical predictions. This
+addresses this problem in the form of a nonlinear second-order differential equation on the calibration function
+function, which has no analytical solution. A neural network is used to solve it. The aim is to
+is to obtain an accurate calibration function by exploiting the non-linear capabilities of neural networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polarimetric signatures of accreting black holes</title>
+      <link>http://localhost:1313/project/accretiondisk/</link>
+      <pubDate>Sat, 02 Jul 2022 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/accretiondisk/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/accretiondisk/BHimage.jpg&#34;
+    alt=&#34;Model of a thick accretion disk around massive black holes, seen by an observer at infinity. The color refers to the synchrotron radiation produced with a vertical magnetic field.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Model of a thick accretion disk around massive black holes, seen by an observer at infinity. The color refers to the synchrotron radiation produced with a vertical magnetic field.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Dr. Alexandra Veledina, post-doctoral fellow ,Tuorla observatory, University of Turku, Finland.&lt;/p&gt;
+&lt;p&gt;The black holes are compact celestial objects whose mass can be several times that of the sun. The gravity exerted is such that, from a certain surface called the event horizon, nothing can escape, not even light, which explains their name. Although it may seem paradoxical, it is possible to observe them. These objects are surrounded by an accretion disc, whose constituent matter spins around the black hole to fractions of the speed of light. The disc emits light. This is what has enabled the Event Horizon Telescope Collaboration to obtain in 2019 the first image of a black hole, or more precisely the first image of a black hole accretion disc (see cover).&lt;/p&gt;
+&lt;p&gt;The study carried out during this internship concerns the modelling of radiation signature of matter near black hole, similar to that of M87* observed in 2019. To study a black hole theoretically, the most suitable tool is general relativity, considering gravity as a reason for deformation of space time. The framework used to study a massive, non-rotating spherical object is the Schwarzschild metric, which characterises the deformation of space-time caused by such an object. The light emanating from the accretion disc follows a trajectory to reach the observer. These paths are not simply straights lines as in the limit of flat space-time, but are curved and constitute geodesic lines. Calculation of photon paths can be done exactly via ray tracing, or  approximately via analytical methods. We thus obtain the image of the accretion disc perceived from different inclinations, by an observer placed at infinity.&lt;/p&gt;
+&lt;p&gt;Light can be considered as an electromagnetic wave, oscillating through space. For different photons, the electric field differs, but if there is a preferred direction, the light is polarized. This is subject to the effects of special and general relativity. Thus the polarisation of the light emitted by the fluid constituting the accretion disc is not the same as that measured by the observer. By using basis changes, we were able to obtain the polarisation angle measured in the observer&amp;rsquo;s sky.
+By first approximating an infinitely thin accretion disc, then with a non-zero thickness, we were able to obtain an image of an accretion disc around black hole, as well as the degree and angle of polarisation at each point.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study Projects | Matthieu Pelissier</title>
+    <link>http://localhost:1313/tags/study-projects/</link>
+      <atom:link href="http://localhost:1313/tags/study-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Study Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Study Projects</title>
+      <link>http://localhost:1313/tags/study-projects/</link>
+    </image>
+    
+    <item>
+      <title>Simulating bird flocking behavior - from simple rules to physical models</title>
+      <link>http://localhost:1313/project/boids-simulation/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/boids-simulation/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/boids-simulation/boids.jpg&#34;
+    alt=&#34;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Mourad Ismaïl, Associate Professor in Applied Mathematics, LIPHY, Université Grenoble Alpes, France.&lt;/p&gt;
+&lt;p&gt;In this project, we aimed to simulate bird swarms in a 2D infinite sky by using three simple rules proposed by Craig W. Reynolds in 1987. These rules, which are widely known as Boids, have been used in the cinema industry to simulate crowds. However, we wanted to model a system following physical laws to approach a collective bird behavior.&lt;/p&gt;
+&lt;p&gt;We found that to effectively simulate physical rules with many parameters, it is necessary to use at least a fourth-order approximation method, such as the Runge-Kutta method. We can obtain a conservative system, where groups of birds/particles are formed.&lt;/p&gt;
+&lt;p&gt;Our simulations can be useful for studying systems where clusters appear from any distribution of constituents. However, we acknowledged that the model could still be improved by adding obstacles, fluid effects, a third dimension of space, or restricting the birds&amp;rsquo; field of vision to 180°.&lt;/p&gt;
+&lt;p&gt;Overall, the understanding of collective behaviors is a scientific challenge that can be addressed by multiple disciplines such as biology, physics, and social sciences. By modeling the behavior of bird swarms, we can gain insights into how systems transition from a uniform state to swarm formations, which has practical applications in various fields.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization and creation of a quartz watch</title>
+      <link>http://localhost:1313/project/quartz/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/quartz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Hassan Sabbah, lecturer,  IRAP, university of Paul Sabatier, Toulouse.&lt;/p&gt;
+&lt;p&gt;A quartz tuning fork is a device commonly used in oscillators for electronic systems.
+When used in conjunction with capacitors, a resonating state can be achieved, with a high
+stability factor suited to build stable and precise clocks.
+In this study we have assumed the quartz can be modelized by the Van Dyke model. We have
+measured the impedance of a quartz crystal to ensure the model is close to the reality and
+determined if it can be realized with conventional components such as capacitors, coils
+and resistors. We have then built a 1Hz clock using a quartz oscillator and characterized its
+precision.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

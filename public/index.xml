@@ -34,11 +34,40 @@
     </item>
     
     <item>
+      <title>Analytical ray-tracing of synchrotron emission around accreting black holes</title>
+      <link>http://localhost:1313/publication/bh/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a differential equation for calibration of the ATLAS detector via a neural networks.</title>
+      <link>http://localhost:1313/project/atlas/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/atlas/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/atlas/distribution.jpg&#34;
+    alt=&#34;Calibration Example: using neural network solution for ODE-based calibration function&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Calibration Example: using neural network solution for ODE-based calibration function&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Pierre-Antoine Delsart, lecturer, ATLAS, LPSC, France.&lt;/p&gt;
+&lt;p&gt;The particle physics studied at the LHC by the ATLAS detector requires high-precision measurements.
+precision. The energy quantities associated with hadronic jet objects cannot be used directly from experimental measurements, and must be corrected in order to be compared with theoretical predictions.
+from experimental measurements, and must be corrected before they can be compared with theoretical predictions. This
+addresses this problem in the form of a nonlinear second-order differential equation on the calibration function
+function, which has no analytical solution. A neural network is used to solve it. The aim is to
+is to obtain an accurate calibration function by exploiting the non-linear capabilities of neural networks.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -125,30 +154,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,7 +283,7 @@
 
 
 
-&lt;div id=&#34;chart-765823419&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-962458317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +301,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-765823419&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-962458317&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -914,60 +919,69 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Simulating bird flocking behavior - from simple rules to physical models</title>
+      <link>http://localhost:1313/project/boids-simulation/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/boids-simulation/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/boids-simulation/boids.jpg&#34;
+    alt=&#34;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Mourad Ismaïl, Associate Professor in Applied Mathematics, LIPHY, Université Grenoble Alpes, France.&lt;/p&gt;
+&lt;p&gt;In this project, we aimed to simulate bird swarms in a 2D infinite sky by using three simple rules proposed by Craig W. Reynolds in 1987. These rules, which are widely known as Boids, have been used in the cinema industry to simulate crowds. However, we wanted to model a system following physical laws to approach a collective bird behavior.&lt;/p&gt;
+&lt;p&gt;We found that to effectively simulate physical rules with many parameters, it is necessary to use at least a fourth-order approximation method, such as the Runge-Kutta method. We can obtain a conservative system, where groups of birds/particles are formed.&lt;/p&gt;
+&lt;p&gt;Our simulations can be useful for studying systems where clusters appear from any distribution of constituents. However, we acknowledged that the model could still be improved by adding obstacles, fluid effects, a third dimension of space, or restricting the birds&amp;rsquo; field of vision to 180°.&lt;/p&gt;
+&lt;p&gt;Overall, the understanding of collective behaviors is a scientific challenge that can be addressed by multiple disciplines such as biology, physics, and social sciences. By modeling the behavior of bird swarms, we can gain insights into how systems transition from a uniform state to swarm formations, which has practical applications in various fields.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Polarimetric signatures of accreting black holes</title>
+      <link>http://localhost:1313/project/accretiondisk/</link>
+      <pubDate>Sat, 02 Jul 2022 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/accretiondisk/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/accretiondisk/BHimage.jpg&#34;
+    alt=&#34;Model of a thick accretion disk around massive black holes, seen by an observer at infinity. The color refers to the synchrotron radiation produced with a vertical magnetic field.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Model of a thick accretion disk around massive black holes, seen by an observer at infinity. The color refers to the synchrotron radiation produced with a vertical magnetic field.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Dr. Alexandra Veledina, post-doctoral fellow ,Tuorla observatory, University of Turku, Finland.&lt;/p&gt;
+&lt;p&gt;The black holes are compact celestial objects whose mass can be several times that of the sun. The gravity exerted is such that, from a certain surface called the event horizon, nothing can escape, not even light, which explains their name. Although it may seem paradoxical, it is possible to observe them. These objects are surrounded by an accretion disc, whose constituent matter spins around the black hole to fractions of the speed of light. The disc emits light. This is what has enabled the Event Horizon Telescope Collaboration to obtain in 2019 the first image of a black hole, or more precisely the first image of a black hole accretion disc (see cover).&lt;/p&gt;
+&lt;p&gt;The study carried out during this internship concerns the modelling of radiation signature of matter near black hole, similar to that of M87* observed in 2019. To study a black hole theoretically, the most suitable tool is general relativity, considering gravity as a reason for deformation of space time. The framework used to study a massive, non-rotating spherical object is the Schwarzschild metric, which characterises the deformation of space-time caused by such an object. The light emanating from the accretion disc follows a trajectory to reach the observer. These paths are not simply straights lines as in the limit of flat space-time, but are curved and constitute geodesic lines. Calculation of photon paths can be done exactly via ray tracing, or  approximately via analytical methods. We thus obtain the image of the accretion disc perceived from different inclinations, by an observer placed at infinity.&lt;/p&gt;
+&lt;p&gt;Light can be considered as an electromagnetic wave, oscillating through space. For different photons, the electric field differs, but if there is a preferred direction, the light is polarized. This is subject to the effects of special and general relativity. Thus the polarisation of the light emitted by the fluid constituting the accretion disc is not the same as that measured by the observer. By using basis changes, we were able to obtain the polarisation angle measured in the observer&amp;rsquo;s sky.
+By first approximating an infinitely thin accretion disc, then with a non-zero thickness, we were able to obtain an image of an accretion disc around black hole, as well as the degree and angle of polarisation at each point.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Quantum states of neutrons in a gravitational field</title>
+      <link>http://localhost:1313/project/gravity/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/gravity/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt;  Benoit Chalopin, lecturer, LCAR, Paul Sabatier University, Toulouse.&lt;/p&gt;
+&lt;p&gt;In many fields of physics, when studying the motion of a particle at the microscopic scale, the gravitational interaction is led to be neglected in front of other interactions such as the electromagnetic interaction, or at shorter range the strong and weak interactions. Indeed, if we focus on the interactions between  the proton and the electron forming a hydrogen atom, we can show that
+the gravitational interaction is 1040 times less than the electromagnetic interaction. However, at this scale, gravity can imply a quantum behavior that we have presented.
+During this presentation, we have approached the problem from a theoretical point of view before considering an experimental approach established by the GRANIT experiment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization and creation of a quartz watch</title>
+      <link>http://localhost:1313/project/quartz/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/quartz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor :&lt;/strong&gt; Hassan Sabbah, lecturer,  IRAP, university of Paul Sabatier, Toulouse.&lt;/p&gt;
+&lt;p&gt;A quartz tuning fork is a device commonly used in oscillators for electronic systems.
+When used in conjunction with capacitors, a resonating state can be achieved, with a high
+stability factor suited to build stable and precise clocks.
+In this study we have assumed the quartz can be modelized by the Van Dyke model. We have
+measured the impedance of a quartz crystal to ensure the model is close to the reality and
+determined if it can be realized with conventional components such as capacitors, coils
+and resistors. We have then built a 1Hz clock using a quartz oscillator and characterized its
+precision.&lt;/p&gt;
 </description>
     </item>
     
