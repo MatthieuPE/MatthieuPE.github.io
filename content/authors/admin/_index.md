@@ -175,11 +175,11 @@ awards:
     awarder: IN2P3
     icon: "custom/in2p3"
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I was one of five Masters students to receive the very first Reynald Pain ‘deux infinis’ excellence grants at the CNRS headquarters. The aim of this new IN2P3 programme is to help and support young people in their second year of a Masters degree, by awarding them a grant and an offer of an internship in an IN2P3 laboratory.
 ---
 
 ## About Me
 
-I am a passionate French physics student, captivated by the dynamic interplay between science and the world. Currently pursuing my academic journey at the University of Grenoble Alpes, I wish to actively contribute to this fascinating quest.
+I am a French physics student, captivated by the dynamic interplay between science and the world. Currently pursuing my academic journey at the University of Grenoble Alpes, as a PhD student.
 
-In the realm of physics, my insatiable curiosity extends to numerous aspects, but my primary fascination lies in the captivating domains of cosmology and particle physics. Exploring these fields opens up diverse and enchanting avenues to comprehend our universe, presenting an exhilarating opportunity to study its awe-inspiring scales.
+My primary fascination lies in the captivating domains of cosmology and particle physics. Exploring these fields opens up diverse and enchanting avenues to comprehend our universe, presenting an exhilarating opportunity to study its awe-inspiring scales.
