@@ -1,5 +1,5 @@
 ---
-title: Simulating bird flocking behavior - from simple rules to physical models
+title: Simulating bird flocking behavior from simple rules to physical models
 summary: Simulation of bird swarms using boids's rules and modeled a physical system to approach collective bird behavior.
 tags:
   - Study projects

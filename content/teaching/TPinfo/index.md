@@ -16,7 +16,7 @@ tags:
 
 **Topics Covered:**  
 - Core programming concepts: lists, strings, loops, functions, classes.  
-- Modules and libraries: NumPy, Matplotlib, SciPy.  
+- Modules and library examples: NumPy, Matplotlib, SciPy.  
 - Collaborative project work in the second half of the semester.  
 
 **Teaching Methodology:**  

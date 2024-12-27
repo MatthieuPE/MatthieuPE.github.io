@@ -39,7 +39,7 @@
 &lt;p&gt;&lt;strong&gt;Topics Covered:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Core programming concepts: lists, strings, loops, functions, classes.&lt;/li&gt;
-&lt;li&gt;Modules and libraries: NumPy, Matplotlib, SciPy.&lt;/li&gt;
+&lt;li&gt;Modules and library examples: NumPy, Matplotlib, SciPy.&lt;/li&gt;
 &lt;li&gt;Collaborative project work in the second half of the semester.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Teaching Methodology:&lt;/strong&gt;&lt;br&gt;
@@ -329,7 +329,7 @@ is to obtain an accurate calibration function by exploiting the non-linear capab
 
 
 
-&lt;div id=&#34;chart-879153624&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-365912874&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -347,7 +347,7 @@ is to obtain an accurate calibration function by exploiting the non-linear capab
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-879153624&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-365912874&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -719,11 +719,11 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Simulating bird flocking behavior - from simple rules to physical models</title>
-      <link>http://localhost:1313/project/boids-simulation/</link>
+      <title>Simulating bird flocking behavior from simple rules to physical models</title>
+      <link>http://localhost:1313/project/boids/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/boids-simulation/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/boids-simulation/boids.jpg&#34;
+      <guid>http://localhost:1313/project/boids/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;boids.jpg&#34;
     alt=&#34;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&lt;/p&gt;
     &lt;/figcaption&gt;
