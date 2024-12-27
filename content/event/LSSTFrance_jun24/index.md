@@ -21,7 +21,7 @@ publishDate: '2024-06-27T13:00:00Z'
 authors:
   - admin
 
-tags: []
+tags: [LSST, talk]
 
 # Is this a featured talk? (true/false)
 featured: false

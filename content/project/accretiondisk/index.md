@@ -20,6 +20,10 @@ links:
     icon_pack: fab
     name: Codes
     url: https://github.com/MatthieuPE
+  - icon: arxiv
+    icon_pack: brands
+    name: Paper
+    url: https://arxiv.org/abs/2412.08359
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,13 +36,16 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
 {{< figure src="BHimage.jpg" caption="Model of a thick accretion disk around massive black holes, seen by an observer at infinity. The color refers to the synchrotron radiation produced with a vertical magnetic field." numbered="false" >}}
 
 
 
 **Supervisor :** Dr. Alexandra Veledina, post-doctoral fellow ,Tuorla observatory, University of Turku, Finland.
 
- The black holes are compact celestial objects whose mass can be several times that of the sun. The gravity exerted is such that, from a certain surface called the event horizon, nothing can escape, not even light, which explains their name. Although it may seem paradoxical, it is possible to observe them. These objects are surrounded by an accretion disc, whose constituent matter spins around the black hole to fractions of the speed of light. The disc emits light. This is what has enabled the Event Horizon Telescope Collaboration to obtain in 2019 the first image of a black hole, or more precisely the first image of a black hole accretion disc (see cover). 
+This project led to a [published paper in a journal]({{< relref "/publication/BH" >}}).
+
+The black holes are compact celestial objects whose mass can be several times that of the sun. The gravity exerted is such that, from a certain surface called the event horizon, nothing can escape, not even light, which explains their name. Although it may seem paradoxical, it is possible to observe them. These objects are surrounded by an accretion disc, whose constituent matter spins around the black hole to fractions of the speed of light. The disc emits light. This is what has enabled the Event Horizon Telescope Collaboration to obtain in 2019 the first image of a black hole, or more precisely the first image of a black hole accretion disc (see cover). 
 
 
 The study carried out during this internship concerns the modelling of radiation signature of matter near black hole, similar to that of M87* observed in 2019. To study a black hole theoretically, the most suitable tool is general relativity, considering gravity as a reason for deformation of space time. The framework used to study a massive, non-rotating spherical object is the Schwarzschild metric, which characterises the deformation of space-time caused by such an object. The light emanating from the accretion disc follows a trajectory to reach the observer. These paths are not simply straights lines as in the limit of flat space-time, but are curved and constitute geodesic lines. Calculation of photon paths can be done exactly via ray tracing, or  approximately via analytical methods. We thus obtain the image of the accretion disc perceived from different inclinations, by an observer placed at infinity.

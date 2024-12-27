@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Simulating bird flocking behavior - from simple rules to physical models</title>
-      <link>http://localhost:1313/project/boids-simulation/</link>
+      <title>Simulating bird flocking behavior from simple rules to physical models</title>
+      <link>http://localhost:1313/project/boids/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/boids-simulation/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/boids-simulation/boids.jpg&#34;
+      <guid>http://localhost:1313/project/boids/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/boids/boids.jpg&#34;
     alt=&#34;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Example of a bird simulation using the rules of birds or the laws of physics. We can note the creation of groups for some parameters.&lt;/p&gt;
     &lt;/figcaption&gt;
