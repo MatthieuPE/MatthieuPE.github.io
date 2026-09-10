@@ -44,7 +44,7 @@ featured: true
 #- name: Arxiv
 #  url: https://arxiv.org/abs/XXXX.XXXXX
 
-url_pdf: 'survey_systematics_in_LSST_for_streams-36.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
