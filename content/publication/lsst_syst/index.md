@@ -2,10 +2,8 @@
 title: 'Impact of LSST systematics on stellar-stream density fluctuations for dark matter'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Matthieu Pélissier
   - Peter S. Ferguson
   - Alex Drlica-Wagner
   - Marine Kuna
@@ -35,7 +33,7 @@ abstract: The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST)
 
 # Summary. An optional shortened abstract.
 # summary:
-tags: [LSST, Stellar streams]
+tags: [LSST, Stellar streams, paper]
 
 # Display this page in the Featured widget?
 featured: true
