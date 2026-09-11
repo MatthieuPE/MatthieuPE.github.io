@@ -40,9 +40,9 @@ featured: true
 
 # Custom links (uncomment lines below)
 # arXiv submission is pending moderation; add the abs link here once it goes live:
-#links:
-#- name: Arxiv
-#  url: https://arxiv.org/abs/XXXX.XXXXX
+links:
+- name: Arxiv
+  url: https://arxiv.org/abs/2609.10897
 
 url_pdf: ''
 url_code: ''
