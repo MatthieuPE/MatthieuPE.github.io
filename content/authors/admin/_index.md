@@ -51,6 +51,7 @@ interests:
   - Computer programming
   - Cosmology
   - Particle physics
+  - photometric surveys
 
 education:
   - area: PhD in Cosmology
