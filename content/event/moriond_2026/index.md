@@ -1,30 +1,28 @@
 ---
-title: LSST France (june 2024)
+title: Moriond conference
+event: Moriond conference
 
-event: LSST France meeting
-event_url: https://indico.in2p3.fr/event/31716/
+location: Moriond, Italy
 
-location: Marseille, CPPM
-
-summary: Search for dark matter halos in the milky way with stellar streams detected by the Rubin/LSST observatory 
-abstract: 'Introduction of the French involvement in the DESC official project aiming at connecting observable properties of stellar streams observed with Rubin/LSST to dark matter constraints. Presentation of the analysis preparation examining the impact of dark matter subhalos with masses ranging from 10⁶ to 10⁹ solar masses on simulated stellar streams'
+summary: Poster about LSST systematics impact on stellar stream density fluctuatinos measurement for dark matter.
+abstract: 'Poster about LSST systematics impact on stellar stream density fluctuatinos measurement for dark matter.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-27T13:00:00Z'
+date: '2026-03-03T13:00:00Z'
 #date_end: '2024-06-12T13:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-27T13:00:00Z'
+# publishDate: '2026-09-11T13:00:00Z'
 
 authors:
   - admin
 
-tags: [LSST, talk]
+tags: [stream, conference, poster]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 
 
@@ -35,7 +33,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://indico.in2p3.fr/event/31716/contributions/140207/attachments/85484/127932/LSSTFrance_MatthieuPELISSIER.pdf'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
@@ -54,3 +52,5 @@ projects:
   - stream
   - PhD
 ---
+
+One can find the poster [here](./moriond_poster.pdf).

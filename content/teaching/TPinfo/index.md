@@ -6,6 +6,7 @@ type: docs
 math: false
 tags:
   - python
+  - intrumental
   - teaching
 ---
 
@@ -13,6 +14,7 @@ tags:
 
 **Course Title:** Python for 3rd-Year Physics Students  
 **Duration:** 36 hours  
+**Years**: 2024, 2025, 2026
 
 **Topics Covered:**  
 - Core programming concepts: lists, strings, loops, functions, classes.  
