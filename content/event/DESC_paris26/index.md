@@ -1,11 +1,11 @@
 ---
-title: Probing dark matter with stellar-stream density fluctuations in the LSST era
+title: DESC meeting
 
 event: DESC meeting
 
 location: Paris, France (and Boston, USA remotely)
 
-summary: Presentation of our work about the impact of the LSST systematics on stream fluctuations measurement for dark matter 
+summary: Probing dark matter with stellar-stream density fluctuations in the LSST era
 abstract: 'The standard ΛCDM model predicts numerous dark-matter subhalos in the $10^6$–$10^9\,M_\odot$ range too small to host visible stars. Stellar streams — elongated structures of stars torn from globular clusters by tidal forces — are among the most sensitive tracers of these invisible subhalos: a close encounter leaves a localized density gap encoding the subhalo mass, making streams powerful probes to test alternative dark-matter models such as warm, fuzzy, or self-interacting dark matter. The Vera C. Rubin Observatory (operating since 2025) will dramatically increase the number of detected streams and the precision on their density profiles. However, survey systematics — depth variations and imperfect star–galaxy separation — can mimic or erase genuine gap signatures. Using mock LSST observations and our open-source tool StreamObs, we quantify this impact and find that background contamination and survey systematics together degrade the minimum detectable subhalo mass by up to one order of magnitude relative to idealized forecasts'
 
 # Talk start and end times.
