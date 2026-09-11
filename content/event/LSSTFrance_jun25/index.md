@@ -11,12 +11,12 @@ abstract: 'Introduction of the French involvement in the DESC official project a
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-13T13:00:00Z'
+date: '2025-06-13T13:00:00Z'
 #date_end: '2024-06-12T13:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-27T13:00:00Z'
+publishDate: '2025-06-13T13:00:00Z'
 
 authors:
   - admin

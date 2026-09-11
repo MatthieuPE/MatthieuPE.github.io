@@ -1,5 +1,5 @@
 ---
-title: StreamObs tutorial
+title: Seattle DESC workshop - StreamObs tutorial
 event: DESC stellar stream workshop
 
 location: Seattle, USA
