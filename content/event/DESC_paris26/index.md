@@ -1,5 +1,5 @@
 ---
-title: DESC meeting
+title: Paris/Boston DESC meeting
 
 event: DESC meeting
 

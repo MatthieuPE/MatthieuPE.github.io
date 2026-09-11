@@ -1,5 +1,5 @@
 ---
-title: LSST France (jun 2026)
+title: LSST France (nov 2025)
 
 event: LSST France meeting
 event_url: https://indico.in2p3.fr/event/37179/
@@ -11,7 +11,7 @@ abstract: 'Dark matter subhalos with masses from 10⁶ to 10⁹ solar masses are
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-26T13:00:00Z'
+date: '2025-11-26T13:00:00Z'
 #date_end: '2024-06-12T13:00:00Z'
 all_day: false
 
