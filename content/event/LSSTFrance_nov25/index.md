@@ -1,22 +1,22 @@
 ---
-title: LSST France (june 2024)
+title: LSST France (jun 2026)
 
 event: LSST France meeting
-event_url: https://indico.in2p3.fr/event/31716/
+event_url: https://indico.in2p3.fr/event/37179/
 
-location: Marseille, CPPM
+location: APC, Paris
 
-summary: Search for dark matter halos in the milky way with stellar streams detected by the Rubin/LSST observatory 
-abstract: 'Introduction of the French involvement in the DESC official project aiming at connecting observable properties of stellar streams observed with Rubin/LSST to dark matter constraints. Presentation of the analysis preparation examining the impact of dark matter subhalos with masses ranging from 10⁶ to 10⁹ solar masses on simulated stellar streams'
+summary: Estimating Rubin/LSST sensitivity to dark matter subhalos impact on stellar streams 
+abstract: 'Dark matter subhalos with masses from 10⁶ to 10⁹ solar masses are mostly invisible, but could impact the structure of stellar streams observed by LSST. Presentation on how LSST systematics could impact density fluctuations measurements in stellar streams, used to set dark matter constrains.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-27T13:00:00Z'
+date: '2026-06-26T13:00:00Z'
 #date_end: '2024-06-12T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-27T13:00:00Z'
+#publishDate: '2024-06-27T13:00:00Z'
 
 authors:
   - admin
@@ -35,7 +35,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://indico.in2p3.fr/event/31716/contributions/140207/attachments/85484/127932/LSSTFrance_MatthieuPELISSIER.pdf'
+url_slides: 'https://docs.google.com/presentation/d/15pEXQOtsVBFzj_WgW8Mpek7A5YBsZohdV670rCsyzoA/edit?usp=sharing'
 url_video: ''
 
 # Markdown Slides (optional).
