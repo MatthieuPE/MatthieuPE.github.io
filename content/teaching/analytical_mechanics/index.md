@@ -1,5 +1,5 @@
 ---
-title: Lagrangian and Hamiltonian mecanics
+title: Analytical mechanics
 summary: Courses for 3rd year Physics students.
 date: 2025-09-01
 type: docs
@@ -11,6 +11,6 @@ tags:
 
 ## Overview  
 
-**Course Title:** Lagrangian and Hamiltonian mecanics exercises
+**Course Title:** Analytical mechanics tutorials
 **Duration:** 12.5 hours
 **Years**: 2025, 2026 
